@@ -25,7 +25,7 @@
 [![raram-bot-v2 Card](https://github-readme-stats.vercel.app/api/pin/?username=marco-verbeek&repo=raram-bot-v2&theme=prussian&title_color=9ACFFF&border_color=FA5C5C)](https://github.com/marco-verbeek/raram-bot-v2)
 
 ### 🎮 Games Developed using Unity
-<p align="center">
+<p>
   <img src="/docs/itchio nightmins banner.png" width="400" alt="itchio banner nightmins">
   <img src="/docs/itchio depawture banner.png" width="400" alt="itchio banner depawture">
 </p>
