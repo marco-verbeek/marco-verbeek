@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="/docs/banner%20-%20cropped.png" alt="personal banner">
+</p>
 ### Hi there! 👋
 
 ### 🤍 Favourite Tech
