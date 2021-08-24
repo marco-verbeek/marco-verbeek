@@ -30,8 +30,8 @@
 
 ### 🎮 Games Developed using Unity
 <p>
-  <a href="https://nexty6.itch.io/nightmins"><img src="/docs/itchio%20nightmins%20-%20border.jpg" width="400" alt="itchio banner nightmins"></a>
-  <a href="https://nexty6.itch.io/depawture"><img src="/docs/itchio depawture banner.png" width="400" alt="itchio banner depawture"></a>
+  <a href="https://nexty6.itch.io/nightmins"><img src="/docs/itchio_nightmins_banner_border.jpg" width="400" alt="itchio banner nightmins"></a>
+  <a href="https://nexty6.itch.io/depawture"><img src="/docs/itchio_depawture_banner_border.jpg" width="400" alt="itchio banner depawture"></a>
 </p>
 
 ### Interested in Learning
