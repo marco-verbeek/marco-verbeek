@@ -1,7 +1,6 @@
 <p align="center">
   <img src="/docs/banner%20-%20cropped.png" alt="personal banner">
 </p>
-### Hi there! 👋
 
 ### 🤍 Favourite Tech
 ![](https://img.shields.io/badge/IDE-IDEA-informational?style=flat&color=FA5C5C&labelColor=172F45)
@@ -27,8 +26,8 @@
 
 ### 🎮 Games Developed using Unity
 <p align="center">
-  <img src="/docs/itchio nightmins banner.png" width="686" alt="itchio banner nightmins">
-  <img src="/docs/itchio depawture banner.png" width="686" alt="itchio banner depawture">
+  <img src="/docs/itchio nightmins banner.png" width="400" alt="itchio banner nightmins">
+  <img src="/docs/itchio depawture banner.png" width="400" alt="itchio banner depawture">
 </p>
 
 ### Interested in Learning
