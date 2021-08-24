@@ -2,14 +2,11 @@
   <img src="/docs/banner%20-%20cropped.png" alt="personal banner">
 </p>
 
-| ![](https://img.shields.io/badge/IDE-IDEA-informational?style=flat&color=FA5C5C&labelColor=172F45)  | ![](https://img.shields.io/badge/IDE-Rider-informational?style=flat&color=FA5C5C&labelColor=172F45) | ![](https://img.shields.io/badge/IDE-WebStorm-informational?style=flat&color=FA5C5C&labelColor=172F45) |
-| ------------- | ------------- | ------------- |
-
 ### 🤍 Favourite Tech
-
-
-
-
+![](https://img.shields.io/badge/IDE-IDEA-informational?style=flat&color=FA5C5C&labelColor=172F45)
+![](https://img.shields.io/badge/IDE-Rider-informational?style=flat&color=FA5C5C&labelColor=172F45)
+![](https://img.shields.io/badge/IDE-WebStorm-informational?style=flat&color=FA5C5C&labelColor=172F45)
+<br/>
 ![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=typescript&logoWidth=21&logoColor=white&color=FA5C5C&labelColor=172F45)
 ![](https://img.shields.io/badge/C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=FA5C5C&labelColor=172F45)
 ![](https://img.shields.io/badge/Java-informational?style=flat&logo=java&logoColor=white&color=FA5C5C&labelColor=172F45)
@@ -17,7 +14,7 @@
 ![](https://img.shields.io/badge/NodeJS-informational?style=flat&logo=node.js&logoWidth=21&logoColor=white&color=FA5C5C&labelColor=172F45)
 ![](https://img.shields.io/badge/ExpressJS-informational?style=flat&logo=express&logoColor=white&color=FA5C5C&labelColor=172F45)
 ![](https://img.shields.io/badge/NestJS-informational?style=flat&logo=nestjs&logoColor=white&color=FA5C5C&labelColor=172F45)
-
+<br/>
 ![MySQL](https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql&logoWidth=21&logoColor=white&color=FA5C5C&labelColor=172F45)
 ![MongoDB](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=FA5C5C&labelColor=172F45)
 ![Postgres](https://img.shields.io/badge/Postgres-informational?style=flat&logo=postgresql&logoColor=white&color=FA5C5C&labelColor=172F45)
