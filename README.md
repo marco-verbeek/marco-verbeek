@@ -26,8 +26,8 @@
 
 ### 🎮 Games Developed using Unity
 <p>
-  <img src="/docs/itchio nightmins banner.png" width="400" alt="itchio banner nightmins">
-  <img src="/docs/itchio depawture banner.png" width="400" alt="itchio banner depawture">
+  <a href="https://nexty6.itch.io/nightmins"><img src="/docs/itchio nightmins banner.png" width="400" alt="itchio banner nightmins"></a>
+  <a href="https://nexty6.itch.io/depawture"><img src="/docs/itchio depawture banner.png" width="400" alt="itchio banner depawture"></a>
 </p>
 
 ### Interested in Learning
