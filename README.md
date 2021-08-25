@@ -36,7 +36,7 @@
 
 ### Interested in Learning
 ![AWS](https://img.shields.io/badge/AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=FA5C5C&labelColor=172F45)
-![Redis](https://img.shields.io/badge/Redis-informational?style=flat&logo=redis&logoColor=white&color=FA5C5C&labelColor=172F45)
-![GraphQL](https://img.shields.io/badge/GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=FA5C5C&labelColor=172F45)
 ![CircleCI](https://img.shields.io/badge/CircleCI-informational?style=flat&logo=circleci&logoColor=white&color=FA5C5C&labelColor=172F45)
 ![Cypress](https://img.shields.io/badge/Cypress-informational?style=flat&logo=cypress&logoColor=white&color=FA5C5C&labelColor=172F45)
+![GraphQL](https://img.shields.io/badge/GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=FA5C5C&labelColor=172F45)
+![Redis](https://img.shields.io/badge/Redis-informational?style=flat&logo=redis&logoColor=white&color=FA5C5C&labelColor=172F45)
