@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://thumbs.gfycat.com/UnevenFavoriteBlackbuck-size_restricted.gif" alt="personal banner">
+    <img src="https://i.imgur.com/QbPleeB.gifv" alt="personal banner">
     <br/>
     <a href="mailto:marcoverbeek99@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&color=FA5C5C" alt="Email address"/></a>
     <a href="https://www.linkedin.com/in/marco-verbeek/"><img src="https://img.shields.io/badge/LinkedIn-D14836?style=flat&logo=linkedin&logoColor=white&color=FA5C5C" alt="LinkedIn profile"/></a>
