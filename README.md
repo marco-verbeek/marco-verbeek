@@ -23,6 +23,8 @@
 #### 01/10/21: Finished working on rARAM, a tool that provides analyses of League of Legends ARAM games:
 [![raram-backend-v2 Card](https://github-readme-stats.vercel.app/api/pin/?username=marco-verbeek&repo=raram-backend-v2&theme=prussian&title_color=9ACFFF&border_color=FA5C5C)](https://github.com/marco-verbeek/raram-backend-v2)
 [![raram-bot-v2 Card](https://github-readme-stats.vercel.app/api/pin/?username=marco-verbeek&repo=raram-bot-v2&theme=prussian&title_color=9ACFFF&border_color=FA5C5C)](https://github.com/marco-verbeek/raram-bot-v2)
+What I've learned: 
+I had never used NestJS before, and I absolutely love it! Only briefly learned about Docker at school, rARAM allowed me to delve deeper into containerization and deployment on Digital Ocean. The backend consumes data from the official Riot Games API, using their services was easy and very interesting, as they provide a lot of interesting player- and game-statistics. DiscordJS, the library used to make the Discord Bot, was a lot easier to use than I expected. Creating a bot has never been so easy and fun!
 
 ### 🎮 Games Developed using Unity, during Game Jams (48h)
 <p>
