@@ -33,9 +33,25 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=7A8DA5&labelColor=172F45)
 ![MySQL](https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql&logoColor=white&color=7A8DA5&labelColor=172F45)
 
+### 🏃 Miles (current project)
+
+Miles is a multi-sport activity tracking app, on web and mobile (React and React Native). You log anything that burns calories: walks, runs, golf, padel, weightlifting, and you earn stars along the way.
+
+- **Weekly milestones**: stars for calories burned (250 / 750 / 1,500 / 2,500), active minutes (75 / 150 / 225 / 300) and active days (1 / 3 / 5).
+- **Weekly duos**: you and a partner each pick a calorie goal for the week. Reach yours and you get a star; if you both reach yours, you each get a bonus star on top.
+- **Monthly leaderboards**: ranked on stars, calories burned and active time.
+
+<p align="center">
+  <img src="/docs/miles_activity.png" width="250" alt="Miles: recent activity feed">
+  <img src="/docs/miles_milestones.png" width="250" alt="Miles: weekly milestones and duo">
+  <img src="/docs/miles_leaderboards.png" width="250" alt="Miles: monthly leaderboards">
+</p>
+
+It is the biggest thing I have built to date. There is also a B2B side to Miles that I would rather walk through live than write up here, so reach out if that sounds interesting.
+
 ### 💻 Projects
 
-**rARAM** analyses League of Legends ARAM games and compares your stats to the rest of the lobby. My longest-running personal project, and the one my friends and I keep using to settle our differences 😁. It has been rewritten four times, each time for a different reason:
+**rARAM** analyses League of Legends ARAM games and compares your stats to the rest of the lobby. My longest-running personal project, and the one my friends keep asking about. It has been rewritten four times, each time for a different reason:
 
 | | Tech stack | Notes |
 | --- | --- | --- |
@@ -44,16 +60,9 @@
 | v3 (2022) ([Luniverse](https://github.com/marco-verbeek/luniverse)) | NestJS monorepo, microservices, RabbitMQ, Helm | learning microservices; honestly over-engineered for a bot |
 | v4 (2024) | One Bun script with a few helpers | no backend, no frontend, no server: reads the Riot API and posts the analysis into Discord. Easy, simple and free, and the version still running today |
 
---
+**Yordle** (2026) is a set of Wordle-style daily guessing games about League champions, built in a few days during a LAN party with friends. Guess the champion from its attributes (gender, region, melee/ranged, ...), from a splash art, from a spell, plus a higher/lower mode on champion release years. Everything is seeded per day, so we all get the same puzzle and compare scores in Discord.
 
-**Yordle** (2026) is a Wordle-style daily guessing game about League of Legends champions, built in a few days during a LAN party with friends. Guess the champion from its attributes (gender, region, melee/ranged, ...), from a splash art, from a spell, plus a higher/lower mode on champion release years. Everything is seeded per day, so we all get the same puzzle and compare scores in Discord.
-
-<img width="447" height="518" alt="image" src="https://github.com/user-attachments/assets/f28cc15c-9254-49ea-8856-09081cb983dc" />
-
---
-
-**Bookclub** (2026) is what we call our movie evenings: one "merguez" movie (a bad one) and one good one. Everyone writes down a few predictions about what will be said or will happen. We watch together, then hand out a podium: the craziest correct guess wins, the too-obvious one gets booed. Predictions that didn't happen carry over to the next movie until they finally happen, or until you forfeit them 😁
-
+**Bookclub** (2026) is what we call our movie evenings: one "merguez" movie (a bad one) and one good one. Before the movie starts, everyone writes down a handful of predictions about what will be said or happen. We watch together, then hand out a podium: the craziest correct guess wins, the too-obvious one gets booed. Predictions that didn't happen carry over to the next movie until they finally land, or until you forfeit them.
 
 ### 🎮 Games
 
