@@ -33,7 +33,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=7A8DA5&labelColor=172F45)
 ![MySQL](https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql&logoColor=white&color=7A8DA5&labelColor=172F45)
 
-### 🏃 Miles (current project)
+### My current project: 🏃 Miles
 
 Miles is a sports activity tracking app, on web and mobile. You log anything that burns calories: walks, runs, golf, horse riding, ... and you earn stars along the way. The core idea is to motivate people to get started and continue to do sports. The landing page is at [gomiles.eu](gomiles.eu)! 🙌
 
