@@ -35,7 +35,7 @@
 
 ### 💻 Projects
 
-**rARAM** analyses League of Legends ARAM games and compares your stats to the rest of the lobby. My longest-running personal project, and the one my friends keep asking about. It has been rewritten four times, each time for a different reason:
+**rARAM** analyses League of Legends ARAM games and compares your stats to the rest of the lobby. My longest-running personal project, and the one my friends and I keep using to settle our differences 😁. It has been rewritten four times, each time for a different reason:
 
 | | Tech stack | Notes |
 | --- | --- | --- |
