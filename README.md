@@ -44,9 +44,16 @@
 | v3 (2022) ([Luniverse](https://github.com/marco-verbeek/luniverse)) | NestJS monorepo, microservices, RabbitMQ, Helm | learning microservices; honestly over-engineered for a bot |
 | v4 (2024) | One Bun script with a few helpers | no backend, no frontend, no server: reads the Riot API and posts the analysis into Discord. Easy, simple and free, and the version still running today |
 
-**Yordle** (2026) is a set of Wordle-style daily guessing games about League champions, built in a few days during a LAN party with friends. Guess the champion from its attributes (gender, region, melee/ranged, ...), from a splash art, from a spell, plus a higher/lower mode on champion release years. Everything is seeded per day, so we all get the same puzzle and compare scores in Discord.
+--
 
-**Bookclub** (2026) is what we call our movie evenings: one "merguez" movie (a bad one) and one good one. Before the movie starts, everyone writes down a handful of predictions about what will be said or happen. We watch together, then hand out a podium: the craziest correct guess wins, the too-obvious one gets booed. Predictions that didn't happen carry over to the next movie until they finally land, or until you forfeit them.
+**Yordle** (2026) is a Wordle-style daily guessing game about League of Legends champions, built in a few days during a LAN party with friends. Guess the champion from its attributes (gender, region, melee/ranged, ...), from a splash art, from a spell, plus a higher/lower mode on champion release years. Everything is seeded per day, so we all get the same puzzle and compare scores in Discord.
+
+<img width="447" height="518" alt="image" src="https://github.com/user-attachments/assets/f28cc15c-9254-49ea-8856-09081cb983dc" />
+
+--
+
+**Bookclub** (2026) is what we call our movie evenings: one "merguez" movie (a bad one) and one good one. Everyone writes down a few predictions about what will be said or will happen. We watch together, then hand out a podium: the craziest correct guess wins, the too-obvious one gets booed. Predictions that didn't happen carry over to the next movie until they finally happen, or until you forfeit them 😁
+
 
 ### 🎮 Games
 
