@@ -35,7 +35,7 @@
 
 ### 🏃 Miles (current project)
 
-Miles is a multi-sport activity tracking app, on web and mobile (React and React Native). You log anything that burns calories: walks, runs, golf, padel, weightlifting, and you earn stars along the way.
+Miles is a sports activity tracking app, on web and mobile. You log anything that burns calories: walks, runs, golf, horse riding, weightlifting, ... and you earn stars along the way. The core idea is to motivate people to get started and continue to do sports. The landing page is at [gomiles.eu](gomiles.eu)! 🙌
 
 - **Weekly milestones**: stars for calories burned (250 / 750 / 1,500 / 2,500), active minutes (75 / 150 / 225 / 300) and active days (1 / 3 / 5).
 - **Weekly duos**: you and a partner each pick a calorie goal for the week. Reach yours and you get a star; if you both reach yours, you each get a bonus star on top.
@@ -47,7 +47,7 @@ Miles is a multi-sport activity tracking app, on web and mobile (React and React
   <img src="/docs/miles_leaderboards.png" width="250" alt="Miles: monthly leaderboards">
 </p>
 
-It is the biggest thing I have built to date. There is also a B2B side to Miles that I would rather walk through live than write up here, so reach out if that sounds interesting.
+It is the biggest thing I have built to date. There is also a B2B side to Miles, reach out if that sounds interesting 😉.
 
 ### 💻 Projects
 
