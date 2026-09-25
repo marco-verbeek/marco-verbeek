@@ -35,9 +35,9 @@
 
 ### 🏃 Miles (current project)
 
-Miles is a sports activity tracking app, on web and mobile. You log anything that burns calories: walks, runs, golf, horse riding, weightlifting, ... and you earn stars along the way. The core idea is to motivate people to get started and continue to do sports. The landing page is at [gomiles.eu](gomiles.eu)! 🙌
+Miles is a sports activity tracking app, on web and mobile. You log anything that burns calories: walks, runs, golf, horse riding, ... and you earn stars along the way. The core idea is to motivate people to get started and continue to do sports. The landing page is at [gomiles.eu](gomiles.eu)! 🙌
 
-- **Weekly milestones**: stars for calories burned (250 / 750 / 1,500 / 2,500), active minutes (75 / 150 / 225 / 300) and active days (1 / 3 / 5).
+- **Weekly milestones**: stars for calories burned, active minutes and active days.
 - **Weekly duos**: you and a partner each pick a calorie goal for the week. Reach yours and you get a star; if you both reach yours, you each get a bonus star on top.
 - **Monthly leaderboards**: ranked on stars, calories burned and active time.
 
@@ -47,7 +47,7 @@ Miles is a sports activity tracking app, on web and mobile. You log anything tha
   <img src="/docs/miles_leaderboards.png" width="250" alt="Miles: monthly leaderboards">
 </p>
 
-It is the biggest thing I have built to date. There is also a B2B side to Miles, reach out if that sounds interesting 😉.
+It is the biggest thing I have built to date, and there's also a B2B side to Miles; reach out if that sounds interesting 😉
 
 ### 💻 Projects
 
