@@ -35,7 +35,7 @@
 
 ### My current project: 🏃 Miles
 
-Miles is a sports activity tracking app, on web and mobile. You log anything that burns calories: walks, runs, golf, horse riding, ... and you earn stars along the way. The core idea is to motivate people to get started and continue to do sports. The landing page is at [gomiles.eu](gomiles.eu)! 🙌
+Miles is a sports activity tracking app, on web and mobile. You log anything that burns calories: walks, runs, golf, horse riding, ... and you earn stars along the way. The core idea is to motivate people to get started and continue to do sports. The landing page is at [gomiles.eu](https://gomiles.eu)! 🙌
 
 - **Weekly milestones**: stars for calories burned, active minutes and active days.
 - **Weekly duos**: you and a partner each pick a calorie goal for the week. Reach yours and you get a star; if you both reach yours, you each get a bonus star on top.
