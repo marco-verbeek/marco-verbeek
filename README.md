@@ -1,13 +1,14 @@
 <p align="center">
-    <img src="/docs/banner - cropped.png" alt="personal banner">
-    <br/>
     <a href="mailto:marcoverbeek99@gmail.com"><img src="https://img.shields.io/badge/Gmail-informational?style=flat&logo=gmail&logoColor=white&color=FA5C5C&labelColor=172F45" alt="Email address"/></a>
     <a href="https://www.linkedin.com/in/marco-verbeek/"><img src="https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=FA5C5C&labelColor=172F45" alt="LinkedIn profile"/></a>
     <img src="https://img.shields.io/badge/Marco%234579-informational?style=flat&logo=discord&logoColor=white&color=FA5C5C&labelColor=172F45" alt="Discord id"/>
 </p>
 
-Fullstack developer from Belgium. I speak **French**, **Dutch** and **English**.
-Most of what I build ends up being played by my friends on a Discord server.
+<p align="center">
+    Fullstack developer from Belgium. I speak <b>French</b>, <b>Dutch</b> and <b>English</b>.
+    <br/>
+    Most of what I build ends up being played by my friends and I on a Discord server.
+</p>
 
 ### 🤍 Current stack
 
@@ -19,8 +20,6 @@ Most of what I build ends up being played by my friends on a Discord server.
 ![TypeScript](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=FA5C5C&labelColor=172F45)
 ![React](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&color=FA5C5C&labelColor=172F45)
 ![Expo](https://img.shields.io/badge/Expo-informational?style=flat&logo=expo&logoColor=white&color=FA5C5C&labelColor=172F45)
-
-Plain React on the web, Expo on mobile.
 
 ### 🧰 Also worked with
 
@@ -40,18 +39,18 @@ Plain React on the web, Expo on mobile.
 
 | | Tech stack | Notes |
 | --- | --- | --- |
-| v1 (2021) ([repo](https://github.com/marco-verbeek/raram-backend-v1)) | ExpressJS API + JS Discord bot + React frontend | my first backend, ever |
+| v1 (2021) ([repo](https://github.com/marco-verbeek/raram-backend-v1)) | ExpressJS API + JS Discord bot + React frontend | one of my first solo backend projects ever |
 | v2 (2021) ([repo](https://github.com/marco-verbeek/raram-backend-v2)) | NestJS + MongoDB, TypeScript bot, new frontend | learning NestJS, which became an instant favourite |
 | v3 (2022) ([Luniverse](https://github.com/marco-verbeek/luniverse)) | NestJS monorepo, microservices, RabbitMQ, Helm | learning microservices; honestly over-engineered for a bot |
-| v4 | One Bun script with a few helpers | no backend, no frontend, no server: reads the Riot API and posts the analysis into Discord. Easy, simple and free, and the version still running today |
+| v4 (2024) | One Bun script with a few helpers | no backend, no frontend, no server: reads the Riot API and posts the analysis into Discord. Easy, simple and free, and the version still running today |
 
-**Yordle** is a set of Wordle-style daily guessing games about League champions, built in a few days during a LAN party with friends. Guess the champion from its attributes (gender, region, melee/ranged, ...), from a splash art, from a spell, plus a higher/lower mode on champion release years. Everything is seeded per day, so we all get the same puzzle and compare scores in Discord.
+**Yordle** (2026) is a set of Wordle-style daily guessing games about League champions, built in a few days during a LAN party with friends. Guess the champion from its attributes (gender, region, melee/ranged, ...), from a splash art, from a spell, plus a higher/lower mode on champion release years. Everything is seeded per day, so we all get the same puzzle and compare scores in Discord.
 
-**Movie predictions**: before a movie night, everyone writes down a handful of predictions about what will be said or happen. We watch together, then hand out a podium: the craziest correct guess wins, the too-obvious one gets booed. Predictions that didn't happen carry over to the next movie until they finally land, or until you forfeit them.
+**Bookclub** (2026) is what we call our movie evenings: one "merguez" movie (a bad one) and one good one. Before the movie starts, everyone writes down a handful of predictions about what will be said or happen. We watch together, then hand out a podium: the craziest correct guess wins, the too-obvious one gets booed. Predictions that didn't happen carry over to the next movie until they finally land, or until you forfeit them.
 
 ### 🎮 Games
 
-Made in Unity, with friends.
+Most of the games I've made are with Unity, but I've also spent a lot of time on Unreal Engine and Godot!
 
 <p>
   <a href="https://nexty6.itch.io/nightmins"><img src="/docs/itchio_nightmins_banner_border.jpg" width="400" alt="itchio banner nightmins"></a>
